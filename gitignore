@@ -26,6 +26,8 @@ Desktop.ini
 *~
 .*.sw[a-z]
 .netrwhist
+*.swp
+*.swo
 
 #}}}
 
