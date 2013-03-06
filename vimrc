@@ -139,7 +139,8 @@ let g:Powerline_colorscheme      = 'zazen'
 let g:Powerline_symbols          = 'compatible'
 let g:Powerline_symbols_override = { 'BRANCH': '' }
 "}}}
-
+Bundle 'majutsushi/tagbar'
+nmap <F8> :TagbarToggle<CR>
 "{{{ - Map Settings
 " General
 inoremap ii <ESC>
