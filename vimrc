@@ -177,6 +177,7 @@ map <Leader>f :Ack
 map <Leader>cu :%s/ \+$//e \| %s/\t/  /ge<CR>
 " Lint
 nmap <Leader>m :w<CR>:make<CR>:cw<CR>
+noremap <F9> :w \| !git scp<CR>
 "}}}
 
 "{{{ - Autocommand Settings
