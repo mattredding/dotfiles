@@ -61,7 +61,7 @@ set go=
 set ut=30
 
 " colorscheme
-colorscheme zazen
+colorscheme desert
 
 set ts=2
 set bs=2
