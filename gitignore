@@ -227,6 +227,10 @@ tmp
 .powenv
 rails_best_practices_output.html
 
+# vundle
+vim/bundle/
+config/
+
 # Clojure
 pom.xml
 *jar
